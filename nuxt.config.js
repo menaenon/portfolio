@@ -1,4 +1,5 @@
-const path = require('path')
+const path = require('path');
+const srcPath = path.resolve(__dirname,'src');
 
 module.exports = {
   mode: 'universal',
@@ -91,7 +92,10 @@ module.exports = {
     ** You can extend webpack config here
     */
     extend(config, ctx) {
-
+      const addAlias = {
+        '@components'    : `${srcPath}/components`
+      }
+      Object.assign(config.resolve.alias, addAlias)
     }
   }
 }
