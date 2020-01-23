@@ -1,5 +1,5 @@
 <template functional>
-  <div class="max-w-4xl flex items-center h-auto lg:h-screen flex-wrap mx-auto my-32 lg:my-0">
+  <div class="max-w-4xl flex items-center h-auto lg:h-screen flex-wrap mx-auto my-32 lg:my-0 mt-24 md:mt-16 h-screen">
     <div
       id="profile"
       class="w-full lg:w-3/5 rounded-lg lg:rounded-l-lg lg:rounded-r-none shadow-2xl bg-white opacity-75 mx-6 lg:mx-0"
@@ -22,9 +22,9 @@
           Okinawa, Japan
         </p>
         <p class="pt-2 text-base flex items-center justify-center lg:justify-start">
-          <i class="las la-archive"></i>
-          <a class="link text-blue-300" href="https://github.com/menaenon/portfolio"><i class="lab la-github"></i></a>
-          <a class="link text-blue-300" href="https://qiita.com/t_o_d"><i class="la la-github-alt"></i></a>
+          <i class="las la-archive"></i> 
+          GitHhub : <a class="link text-blue-300" href="https://github.com/menaenon/portfolio"><i class="lab la-github"></i></a>
+          Qiita : <a class="link text-blue-300" href="https://qiita.com/t_o_d"><i class="la la-github-alt"></i></a>
         </p>
         <p class="pt-8 text-sm">
           I am Web Application Developer in Okinawa
