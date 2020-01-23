@@ -8,7 +8,8 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    titleTemplate: '%s | ' + process.env.npm_package_name || '',
+    title: 't_o_d',
+    titleTemplate: 't_o_d | ' + process.env.npm_package_name || '',
     htmlAttrs: { lang: 'en' },
     meta: [
       { charset: 'utf-8' },
