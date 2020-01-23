@@ -26,6 +26,15 @@ $ yarn start
 $ yarn generate
 ```
 
+## Setup on Docker
+
+```bash
+# create image
+$ docker-compose build
+# start image
+$ docker-compose up -d
+```
+
 ## Document
 - [Nuxt.js docs](https://nuxtjs.org).
 - [tailwindcss](https://tailwindcss.com/).
