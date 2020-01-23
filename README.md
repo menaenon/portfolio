@@ -1,4 +1,9 @@
 # portfolio
+
+## site
+- [portfolio](https://t-o-d-portfolio.netlify.com/)
+
+## use
 - My Portfolio
   - Vue.js
   - Nuxt.js
@@ -23,3 +28,4 @@ $ yarn generate
 
 ## Document
 - [Nuxt.js docs](https://nuxtjs.org).
+- [tailwindcss](https://tailwindcss.com/).
