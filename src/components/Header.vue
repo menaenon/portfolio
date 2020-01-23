@@ -12,8 +12,8 @@
     </div>
     <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
       <div class="text-sm lg:flex-grow">
-        <nuxt-link to="/about" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">About</nuxt-link>
-        <nuxt-link to="/skill" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">Skill</nuxt-link>
+        <nuxt-link to="/skill" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">About</nuxt-link>
+        <nuxt-link to="/info" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">Skill</nuxt-link>
       </div>
     </div>
   </nav>
