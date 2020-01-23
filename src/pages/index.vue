@@ -8,10 +8,6 @@
 import Profile from '@components/Profile'
 
 export default {
-  head: {
-    title: 'Menaenon',
-    meta: [{ hid: 'description', name: 'description', content: 'Menaenon' }]
-  },
   components: { Profile }
 }
 </script>
