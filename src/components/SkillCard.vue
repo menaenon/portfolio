@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full md:w-1/2 xl:w-1/3 pt-3 px-3 md:pr-2">
+  <div class="w-full md:w-1/2 xl:w-1/3 pt-3 px-3 md:pr-2 lg:mb-32">
     <div :class="bgColor" class="border rounded shadow p-2">
       <div class="flex flex-row items-center">
         <div class="text-left">
