@@ -16,9 +16,6 @@
         <a href="#Skill" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
           Skill
         </a>
-        <a href="#Contact" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white">
-          Contact
-        </a>
       </div>
     </div>
   </nav>

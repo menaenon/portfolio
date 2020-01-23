@@ -11,9 +11,6 @@
         <div class="block sm:table-cell">
           <p class="uppercase text-grey text-sm sm:mb-6">Skill</p>
         </div>
-        <div class="block sm:table-cell">
-          <p class="uppercase text-grey text-sm sm:mb-6">Contact</p>
-        </div>
       </div>
       <p class="text-center text-xs">Copyright©T.O. All Rights Reserved.</p>
     </div>
