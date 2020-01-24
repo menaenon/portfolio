@@ -15,7 +15,7 @@
 </div>
 </template>
 <script>
-import SkillCard from '@components/SkillCard'
+import SkillCard from '../../src/components/SkillCard'
 export default {
   components: { SkillCard }
 }
